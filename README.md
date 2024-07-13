@@ -9,3 +9,10 @@
     -   python manage.py runserver
 5. Run tests:
     -   python manage.py test priority_tests
+# Virtualenv (Optional)
+To create virtualenv steps
+- $ git clone <repo-url>
+- $ cd $HOME/superlists
+- $ pyenv virtualenv 3.10.12 superlists
+- $ pyenv activate superlists
+- $ (superlists) tdd@mlp:~/superlists$
