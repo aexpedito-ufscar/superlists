@@ -1,4 +1,4 @@
-# Superlists with priority
+# Superlists with priority - Grupo A
 1. Clone repo:
    - git clone https://github.com/aexpedito-ufscar/superlists.git
 2. Install requirements.txt: 
