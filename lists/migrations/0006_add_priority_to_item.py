@@ -14,7 +14,7 @@ class Migration(migrations.Migration):
         migrations.AddField(
             model_name='item',
             name='priority',
-            field=models.TextField(default='1'),
+            field=models.TextField(default='Alta'),
             preserve_default=True
         ),
     ]
