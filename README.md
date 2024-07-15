@@ -1,4 +1,6 @@
 # Superlists with priority - Grupo A
+Nomes: Afonso Expedito da Silva, Usuario Github: aexpedito-ufscar
+
 1. Clone repo:
    - git clone https://github.com/aexpedito-ufscar/superlists.git
 2. Install requirements.txt: 
@@ -16,3 +18,4 @@ To create virtualenv steps
 - $ pyenv virtualenv 3.10.12 superlists
 - $ pyenv activate superlists
 - $ (superlists) tdd@mlp:~/superlists$
+
