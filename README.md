@@ -1,6 +1,5 @@
 # Superlists with priority - Grupo A
-Nomes: Afonso Expedito da Silva, Usuario Github: aexpedito-ufscar
-       Iago Machado, Usuario Github: IagoMaranMachado
+Nomes: Afonso Expedito da Silva, Usuario Github: aexpedito-ufscar; Iago Machado, Usuario Github: IagoMaranMachado
 
 1. Clone repo:
    - git clone https://github.com/aexpedito-ufscar/superlists.git
